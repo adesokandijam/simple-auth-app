@@ -1,5 +1,5 @@
 # simple-auth-app
-A simple React application that incorporates Amazon Cognito user authentication with AWS Amplify
+A simple React application that incorporates Amazon Cognito user authentication with AWS Amplify. \
 Ensure to install and configure AWS Amplify CLI on your workspace before using.
 
 Have a nice day
